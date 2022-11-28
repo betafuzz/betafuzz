@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Dave Fuzz
 Developer of Web 3.0 protocols and applications, security analyst, digital nomad<br>
 
 
